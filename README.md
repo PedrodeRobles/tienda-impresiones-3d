@@ -1,2 +1,2 @@
 # tienda-impresiones-3d
-Maqueta de una tienda de objetos 3D
+Mi primer maqueta. Maqueta de una tienda de objetos 3D
