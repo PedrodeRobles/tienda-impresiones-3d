@@ -15,6 +15,7 @@ body {
     width: 81px;
     margin-left: 12px;
     margin-top: 4px;
+    cursor: pointer;
 }
 .header__h1 {
     font-size: 45px;
